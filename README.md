@@ -8,13 +8,15 @@ SnoozeSuite: A sleek, responsive hotel booking website crafted with HTML, CSS, a
 - 📸 Photo gallery of rooms
 - 🛏️ Easy-to-browse room listings
 
+## Screenshots
+
+<img src="https://i.imghippo.com/files/hBpXM1720948293.png" alt="" border="0">
+
 ## Tech Stack
 
 - **📄 HTML5** : Page structure
 - **🎨 CSS3:** Styling and layout
 - **💻 JavaScript:** Basic interactivity
-## Preview
-<a href="https://ibb.co/HPKF1bb"><img src="https://i.ibb.co/3FTrGjj/Neon-Retro-Stars-Marketing-Mockup-Website-Instagram-Post-2.png" alt="Neon-Retro-Stars-Marketing-Mockup-Website-Instagram-Post-2" border="0"></a>
 
 ## Lessons Learned
 
